@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SantClaraMSISWebsite/precache-manifest.6bf3bc8053fb73858fb482e6984df487.js"
+  "/SantClaraMSISWebsite/precache-manifest.00f1eb4f98abb9a46426e62c3d88eed5.js"
 );
 
 self.addEventListener('message', (event) => {
